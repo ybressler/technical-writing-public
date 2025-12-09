@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Obsidian
+.obsidian/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Temp files
+*.tmp
+*.bak
+
+# Downloaded reference files (keep local, don't commit)
+*.mhtml
